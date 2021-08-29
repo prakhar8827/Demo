@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="PHPwebsite" />
         <module name="UpdatedPHPWebsite" />
+        <module name="Demo" />
       </profile>
     </annotationProcessing>
   </component>

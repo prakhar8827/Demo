@@ -99,6 +99,7 @@ public class HomePageTest {
     @Test(priority = 9)
     public void verifyTourSearch() {
         homePage.tourSearch();
+        System.out.println("Adding to test Github");
     }
 
     /*@Test(priority = 1)
